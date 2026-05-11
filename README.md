@@ -1,5 +1,3 @@
 # Obesity Model Prediction 
 
-This project analyzes air quality and greenhouse gas emissions across the United States using data collected from APIs, web scraping, and geospatial processing techniques. By combining AQI, population, 
-energy consumption, and emissions data, the project uncovers patterns between urban density, energy use, and environmental impact through interactive visualizations and statistical analysis. 
-The findings highlight the significant role of the energy sector in greenhouse gas emissions and provide insights that could support future environmental policy and sustainability efforts.
+This machine learning project predicts obesity risk levels using demographic, lifestyle, and health-related data from over 20,000 individuals. Multiple classification models, including Logistic Regression, Random Forest, and LightGBM, were trained and evaluated to identify the most accurate approach, with LightGBM achieving nearly 90% prediction accuracy. The project also includes feature engineering, exploratory data analysis, cross-validation, and model evaluation to uncover the key factors influencing obesity risk, such as BMI, age, physical activity, and screen time.
